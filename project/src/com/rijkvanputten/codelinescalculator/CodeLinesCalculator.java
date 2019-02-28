@@ -61,7 +61,6 @@ public class CodeLinesCalculator {
 		panel.add(label);
 	}
 	
-	// MAIN FUCTION
 	public static void main(String[] args) {
 		SetSystemUILook();
 		
