@@ -25,6 +25,7 @@ public class CodeLinesCalculator {
 		gridLayout.setVgap(10);
         panel.setLayout(gridLayout);
         
+        
         ShowLabel("Directory");
         directoryTextField = new JTextField();
 		panel.add(directoryTextField);
