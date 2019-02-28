@@ -9,6 +9,7 @@ import java.nio.file.Path;
 import java.util.ArrayList;
 import java.util.Arrays;
 
+// c
 public class CodeLinesCalculator {
 	private JFrame f;
 	private JPanel contentPanel;
