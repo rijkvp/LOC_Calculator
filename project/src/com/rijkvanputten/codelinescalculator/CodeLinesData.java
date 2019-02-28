@@ -10,8 +10,12 @@ public class CodeLinesData {
 		CodeLines = codeLines;
 		CommentLines = commentLines;
 	}
-	public void Print()
+	public void Debug()
 	{
-		System.out.println("LINES: " + Lines + " CODE LINES: " + CodeLines + " COMMENTS: " + CommentLines);
+		System.out.println(GetAsString());
+	}
+	public String GetAsString()
+	{
+		return (CodeLines + " Lines of Code      " + Lines + " Lines in Total      " + CommentLines + " Lines of Comments");
 	}
 }

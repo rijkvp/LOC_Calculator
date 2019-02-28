@@ -33,7 +33,7 @@ public class Calculator {
 	    }
 	    return name.substring(lastIndexOf);
 	}
-	
+
 	public static CodeLinesData Calculate(final File directory, final String[] extensions)
 	{
 		currentFiles.clear();

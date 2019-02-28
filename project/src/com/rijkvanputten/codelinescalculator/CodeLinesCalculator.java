@@ -87,7 +87,7 @@ public class CodeLinesCalculator {
 			return;
 		}
 		CodeLinesData data = Calculator.Calculate(folder, CommaStrToArray(extensionInput));
-		data.Print();
+		outputLabel.setText(data.GetAsString());
 	}
 	
 	public static void SetSystemUILook()
