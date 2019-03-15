@@ -1,6 +1,4 @@
-package com.rijkvanputten.codelinescalculator;
-
-import com.rijkvanputten.codelinescalculator.CodeLinesData;
+package com.rijkv.codelinescalculator;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -8,6 +6,8 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
+
+import com.rijkv.codelinescalculator.CodeLinesData;
 
 public class Calculator {
 	private static ArrayList<File> currentFiles = new ArrayList<File>();

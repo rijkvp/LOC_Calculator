@@ -1,4 +1,4 @@
-package com.rijkvanputten.codelinescalculator;
+package com.rijkv.codelinescalculator;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;

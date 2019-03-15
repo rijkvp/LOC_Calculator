@@ -1,4 +1,4 @@
-package com.rijkvanputten.codelinescalculator;
+package com.rijkv.codelinescalculator;
 
 public class CodeLinesData {
 	public int Lines;
