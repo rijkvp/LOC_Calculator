@@ -11,3 +11,5 @@ Is not accurate with other languages.
 ### Pictures
 ![](https://github.com/Rijk-van-Putten/java_code_line_calculator/blob/master/pics/look_of_program%202.jpg)
 ![](https://github.com/Rijk-van-Putten/java_code_line_calculator/blob/master/pics/look_of_program.jpg)
+### Download
+Download at the [releases page](https://github.com/Rijk-van-Putten/LOC_Calculator/releases/tag/V0.1)
